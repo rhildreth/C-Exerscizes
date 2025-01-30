@@ -2,6 +2,9 @@
 #include <cstdlib>
 
 // test push to github
+
+// test #2 push to github
+
 int main() {
 	bool isX100 = false;
 	bool isX1 = false;
